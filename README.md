@@ -2,6 +2,7 @@
 # Schedule-Event<br />
 A Python script and also a Mac executable of the script which helps you to schedule events on Doodle.com very quickly.<br />
 The script uses Doodle API and selenium Webdriver API to automate the task.<br />
+A link to the event will be sent to the email provided and this can be shared with your colleagues and friends, etc.<br />
 ----------------------------------------------------------------------<br />
 Steps to use the Python Script(Works on Both Windows and Mac OSx)-
 1. Download PyCharm
@@ -38,5 +39,6 @@ Hyderabad<br />
 Output Message:<br />
 Event has been scheduled.<br />
 Thank You for using Doodle Scheduler.<br />
+*Check Your Email*<br />
 -----------------------------------------------------------------------<br />
 If any exceptions are shown then try to run the program again.
