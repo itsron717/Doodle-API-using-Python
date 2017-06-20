@@ -10,11 +10,11 @@ Steps to use the Python Script(Works on Both Windows and Mac OSx)-
 3. Run the script.
 
 Steps to use the Mac Executable-
-1. Get Homebrew. Open Terminal and type (/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)")
-2. Downlaod Chomedriver (Open Terminal and type brew install chromedriver)
-3. Download the MacExecutable.zip zip file from Github repository.
+1. Get Homebrew. Open Terminal and type **/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"**
+2. Downlaod Chomedriver (Open Terminal and type **brew install chromedriver**)
+3. Download the **MacExecutable.zip** zip file from Github repository.
 4. Extract the folder MacExecutable from the zip file by clicking on it.
-5. Go to MacExecutbale > dist > Doodle > Doodle(exec)
+5. Go to **MacExecutbale** > **dist** > **Doodle** > **Doodle(exec)**
 ----------------------------------------------------------------------
 Script Example- <br />
 -Name:<br />
