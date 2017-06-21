@@ -41,4 +41,5 @@ Event has been scheduled.<br />
 Thank You for using Doodle Scheduler.<br />
 *Check Your Email*<br />
 -----------------------------------------------------------------------<br />
-If any exceptions are shown then try to run the program again.
+If any exceptions are shown then try to run the program again.<br />
+Headless Browser and windows execeutable Update coming soon.
