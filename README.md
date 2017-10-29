@@ -20,7 +20,7 @@ Script Example- <br />
 -Name:<br />
 Rounak Vyas<br />
 -Email:<br />
-xyz@gmail.com<br />
+itsron143@gmail.com<br />
 -Event Title:<br />
 Testing<br />
 -Description:<br />
