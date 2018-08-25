@@ -1,4 +1,7 @@
 # Schedoodle
+
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
 # Schedule-Event<br />
 A Python script and also a Mac executable of the script which helps you to schedule events on Doodle.com very quickly.<br />
 The script uses Doodle API and selenium Webdriver API to automate the task.<br />
