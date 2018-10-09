@@ -6,7 +6,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import WebDriverException
 import time
-
+import random as rn
 
 def doodle():
     name = input("Name: \n")
