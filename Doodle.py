@@ -7,7 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import WebDriverException
 from time import time
 
-def doodle():
+def app():
     name = input("Name: \n")
     email = input("Email: \n")
     eventTitle = input("Event Title: \n")
@@ -106,4 +106,4 @@ def doodle():
     driver.quit()
     time.sleep(10)
 
-doodle()
+app()
